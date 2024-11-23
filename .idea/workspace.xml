@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a7515da-71db-4956-b3af-233b37ec7502" name="Changes" comment="add a duck hustag">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="0a7515da-71db-4956-b3af-233b37ec7502" name="Changes" comment="add .gitignore final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +149,55 @@
       <option name="project" value="LOCAL" />
       <updated>1732361409998</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add .gitignore">
+      <option name="closed" value="true" />
+      <created>1732361968636</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732361968636</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add .gitignore once">
+      <option name="closed" value="true" />
+      <created>1732362105103</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362105103</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add .gitignore once">
+      <option name="closed" value="true" />
+      <created>1732362128982</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362128982</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add .gitignore once">
+      <option name="closed" value="true" />
+      <created>1732362141293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362141293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add .gitignore final">
+      <option name="closed" value="true" />
+      <created>1732362215230</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362215230</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add .gitignore final">
+      <option name="closed" value="true" />
+      <created>1732362228345</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732362228345</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +219,9 @@
     <MESSAGE value="add a goodmornig greeting!" />
     <MESSAGE value="Revert &quot;add the smile !&quot;&#10;&#10;This reverts commit 140624f8" />
     <MESSAGE value="add a duck hustag" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a duck hustag" />
+    <MESSAGE value="add .gitignore" />
+    <MESSAGE value="add .gitignore once" />
+    <MESSAGE value="add .gitignore final" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore final" />
   </component>
 </project>
